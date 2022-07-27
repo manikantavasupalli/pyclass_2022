@@ -9,5 +9,5 @@ students = {
     }
 
 print(type(students))
-with open("/Users/i1179/personal/practice/py-class/File_ops/json_parse/output.json", "w") as fd:
+with open("outputx.json", "w") as fd:
     json.dump(students, fd)
