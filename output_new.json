@@ -1,0 +1,157 @@
+{
+    "N091001": {
+        "std": "X",
+        "name": "mathew",
+        "class": "gamma10",
+        "weight": 50,
+        "weight_unit": "kg",
+        "height": 5.7,
+        "height_unit": "feet",
+        "address": {
+            "door": "44-10-12/123",
+            "street": "streetx",
+            "city": "lasangels",
+            "zipcode": 123456
+        },
+        "grades": {
+            "math": 8.5,
+            "english": 9,
+            "social": 7.5,
+            "science": 8
+        },
+        "languages": [
+            "English",
+            "Hindi",
+            "Spanish"
+        ]
+    },
+    "N091002": {
+        "std": "X",
+        "name": "Mob",
+        "class": "gamma10",
+        "weight": 50,
+        "weight_unit": "kg",
+        "height": 5.7,
+        "height_unit": "feet",
+        "address": {
+            "door": "44-10-12/123",
+            "street": "streetx",
+            "city": "lasangels",
+            "zipcode": 223456
+        },
+        "grades": {
+            "math": 7.5,
+            "english": 8,
+            "social": 6.5,
+            "science": 8.6
+        },
+        "languages": [
+            "English",
+            "Hindi",
+            "Japaneese"
+        ]
+    },
+    "N091003": {
+        "std": "X",
+        "name": "Bob",
+        "class": "gamma10",
+        "weight": 50,
+        "weight_unit": "kg",
+        "height": 5.7,
+        "height_unit": "feet",
+        "address": {
+            "door": "44-10-12/123",
+            "street": "streetx",
+            "city": "lasangels",
+            "zipcode": 323456
+        },
+        "grades": {
+            "math": 6.5,
+            "english": 7,
+            "social": 8.5,
+            "science": 7.5
+        },
+        "languages": [
+            "English",
+            "Hindi",
+            "chinese"
+        ]
+    },
+    "N091004": {
+        "std": "X",
+        "name": "Rob",
+        "class": "gamma10",
+        "weight": 50,
+        "weight_unit": "kg",
+        "height": 5.7,
+        "height_unit": "feet",
+        "address": {
+            "door": "44-10-12/123",
+            "street": "streetx",
+            "city": "lasangels",
+            "zipcode": 423456
+        },
+        "grades": {
+            "math": 7,
+            "english": 7.5,
+            "social": 7,
+            "science": 8
+        },
+        "languages": [
+            "English",
+            "Hindi",
+            "Telugu"
+        ]
+    },
+    "N091005": {
+        "std": "X",
+        "name": "Xob",
+        "class": "gamma10",
+        "weight": 50,
+        "weight_unit": "kg",
+        "height": 5.7,
+        "height_unit": "feet",
+        "address": {
+            "door": "44-10-12/123",
+            "street": "streetx",
+            "city": "lasangels",
+            "zipcode": 523456
+        },
+        "grades": {
+            "math": 9,
+            "english": 6,
+            "social": 8,
+            "science": 7
+        },
+        "languages": [
+            "English",
+            "Hindi",
+            "tamil"
+        ]
+    },
+    "N091006": {
+        "std": "X",
+        "name": "Mike",
+        "class": "gamma10",
+        "weight": 50,
+        "weight_unit": "kg",
+        "height": 5.7,
+        "height_unit": "feet",
+        "address": {
+            "door": "44-10-12/123",
+            "street": "streetx",
+            "city": "lasangels",
+            "zipcode": 623456
+        },
+        "grades": {
+            "math": 7.2,
+            "english": 8.5,
+            "social": 7.5,
+            "science": 8.5
+        },
+        "languages": [
+            "English",
+            "Hindi"
+        ]
+    }
+}
